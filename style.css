@@ -88,6 +88,23 @@ h1{
     top: 50px;
 }
 
+#section4{
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+#section4 img{
+    width: 100%;
+}
+
+#section4 p{
+    font-weight: 600;
+}
+
+#section4 h1{
+    font-size: 36px;
+}
+
 
 
 
