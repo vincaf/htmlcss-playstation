@@ -2,3 +2,39 @@
     width: 100px;
     padding: 10px;
 }
+
+#section1{
+    background-image: url(./img/jumbo-bg.png);
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    position: relative;
+}
+
+#section1 .ms_returnal{
+    width: 400px;
+}
+
+.ms_text-white{
+    color: #fff;
+}
+
+.ms_jumbo-text{
+    position: absolute;
+    bottom: 50px;
+}
+
+.ms_jumbo-text h1{
+    font-size: 50px;
+}
+
+.ms_jumbo-text p{
+    font-weight: 600;
+}
+
+.ms_jumbo-text button{
+    background-color: #cd3d0f;
+    color: #fff;
+}
