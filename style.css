@@ -173,7 +173,45 @@ h1{
     color: #fff;
 }
 
+#section9 img{
+    width: 100%;
+}
 
+#section9 h1{
+    font-size: 40px;
+}
+
+@media all and (min-width: 576px) {
+    #section9 img{
+        width: 50%;
+    }
+}
+
+footer{
+    background-color: #00439c;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer img{
+    width: 100px;
+}
+
+.ms_language img{
+    width: 20px;
+}
+
+footer ul{
+    list-style: none;
+}
+
+.ms_logosie{
+    width: 150px;
+}
+
+.ms-margin-bottom{
+    margin-bottom: 100px;
+}
 
 
 
