@@ -142,10 +142,35 @@ h1{
     .ms_plus-logo{
         width: 50%;
     }
+
+    .ms_now-logo{
+        width: 50%;
+    }
 }
 
 #section7 img{
     width: 100%;
+}
+
+#section8{
+    background-color: #161c3b;
+}
+
+#section8 img{
+    width: 100%;
+}
+
+.ms_now-logo{
+    width: 80%;
+}
+
+#section8 a{
+    font-weight: 600;
+}
+
+#section8 p{
+    font-weight: 600;
+    color: #fff;
 }
 
 
