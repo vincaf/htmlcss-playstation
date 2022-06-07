@@ -110,6 +110,41 @@ h1{
     width: 100%;
 }
 
+#section6{
+    background-color: #bebcbb;
+}
+
+#section6 img{
+    width: 100%;
+}
+
+.ms_plus-logo{
+    width: 80%;
+}
+
+#section6 a{
+    font-weight: 600;
+}
+
+#section6 p{
+    font-weight: 600;
+}
+
+.ms_none{
+    display: none;
+}
+
+@media all and (min-width: 768px) {
+    .ms_none{
+        display: block;
+    }    
+
+    .ms_plus-logo{
+        width: 50%;
+    }
+}
+
+
 
 
 
