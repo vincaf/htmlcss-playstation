@@ -26,7 +26,7 @@
     bottom: 50px;
 }
 
-.ms_jumbo-text h1{
+h1{
     font-size: 50px;
 }
 
@@ -38,3 +38,37 @@
     background-color: #cd3d0f;
     color: #fff;
 }
+
+#section2 img{
+    width: 100%;
+}
+
+.ms_border-radius{
+    border-radius: 20px;
+}
+
+#section2 .ms_blue{
+    color: #177ed2;
+}
+
+#section2 .ms_bgblue{
+    background-color: #2d64e6;
+    color: #fff;
+}
+
+#section2 .ms_grey{
+    color: #747474;
+}
+
+#section2 .ms_product-list{
+    opacity: 0.5;
+}
+
+#section2 .ms_selected{
+    border: none;
+    border-bottom: 3px solid #2d64e6;
+}
+
+
+
+
