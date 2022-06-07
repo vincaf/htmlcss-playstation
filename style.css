@@ -13,7 +13,7 @@
     position: relative;
 }
 
-#section1 .ms_returnal{
+.ms_returnal{
     width: 400px;
 }
 
@@ -37,6 +37,7 @@ h1{
 .ms_jumbo-text button{
     background-color: #cd3d0f;
     color: #fff;
+    font-weight: 600;
 }
 
 #section2 img{
@@ -67,6 +68,24 @@ h1{
 #section2 .ms_selected{
     border: none;
     border-bottom: 3px solid #2d64e6;
+}
+
+#section3{
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    position: relative;
+}
+
+.ms_taketwo{
+    width: 300px;
+}
+
+#section3 .position-absolute{
+    top: 50px;
 }
 
 
