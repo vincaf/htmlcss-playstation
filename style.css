@@ -113,13 +113,14 @@ h1{
 
 .ms_highlight{
     transition: 0.2s ease-in-out;
+    cursor: pointer;
 }
 
 .ms_highlight:hover{
     margin-top: -1px;
 }
 
-.ms_border-highlight:hover{
+.ms_border-highlight{
     border: 3px solid #2d64e6;
     border-radius: 20px;
     padding: 2px;
@@ -172,6 +173,10 @@ h1{
 
 #section4 h1{
     font-size: 36px;
+}
+
+#section4 .col{
+    cursor: pointer;
 }
 
 /* SEZIONE 5 - ESPLORA LA PS4 */
@@ -281,6 +286,10 @@ footer img{
 
 footer ul{
     list-style: none;
+}
+
+footer li{
+    cursor: pointer;
 }
 
 .ms_logosie{
