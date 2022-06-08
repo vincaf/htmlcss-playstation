@@ -173,18 +173,16 @@ h1{
     color: #fff;
 }
 
+#section9 .container{
+    max-width: 576px;
+}
+
 #section9 img{
     width: 100%;
 }
 
 #section9 h1{
     font-size: 40px;
-}
-
-@media all and (min-width: 576px) {
-    #section9 img{
-        width: 50%;
-    }
 }
 
 footer{
@@ -213,5 +211,32 @@ footer ul{
     margin-bottom: 100px;
 }
 
+header .nav-item{
+    position: static;
+}
 
+header .dropdown-menu{
+    width: 100%;
+    border: none;
+    border-radius: 0;
+}
+
+header .ms_support-list {
+    list-style: none;
+  }
+  
+header .ms_support-list li::before {
+    content: "\2022";
+    color: blue;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+header .ms_margin-right{
+    margin: 0 50px 0 0;
+}
+
+header .ms_playmenu-size{
+    width: 70%;
+}
 
