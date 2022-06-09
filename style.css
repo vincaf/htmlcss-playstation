@@ -42,6 +42,14 @@ header .ms_playmenu-size{
     color: #fff;
 }
 
+header .btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: #000;
+    outline-offset: 3px;
+    color: #fff;
+}
+
 /* SEZIONE 1 - BANNER GIOCO */
 
 #section1{
