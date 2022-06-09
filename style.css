@@ -34,6 +34,14 @@ header .ms_playmenu-size{
     padding: 10px;
 }
 
+.btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: blue;
+    outline-offset: 3px;
+    color: #fff;
+}
+
 /* SEZIONE 1 - BANNER GIOCO */
 
 #section1{
@@ -71,6 +79,14 @@ h1{
     background-color: #cd3d0f;
     color: #fff;
     font-weight: 600;
+}
+
+#section1 .btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: black;
+    color: #fff;
+    outline-offset: -4px;
 }
 
 /* SEZIONE 2 - LISTA GIOCHI E PLAYSTATION5 CON ACCESSORI */
@@ -154,6 +170,13 @@ h1{
 
 #section3 .position-absolute{
     top: 50px;
+}
+
+#section3 .btn:hover{
+    outline-style: double;
+    outline-width: 2px;
+    outline-color: red;
+    outline-offset: 3px;
 }
 
 /* SEZIONE 4 - NUOVE USCITE GIOCHI */
@@ -252,6 +275,10 @@ h1{
 #section8 p{
     font-weight: 600;
     color: #fff;
+}
+
+#section8 .btn:hover{
+    color: #000;
 }
 
 /* SEZIONE 9 - SOCIAL MEDIA */
